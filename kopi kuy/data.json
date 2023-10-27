@@ -1,0 +1,115 @@
+{
+    "kopi": [
+      {
+        "nama": "Kopi Susu",
+        "size": "330ml",
+        "harga": "19.000",
+        "link": "#",
+        "foto": "images/produk/product_kopi_susu.jpg"
+      },
+      {
+        "nama": "Espresso",
+        "size": "100 ml",
+        "harga": "15.000",
+        "link": "#",
+        "foto": "images/produk/product_espresso.jpg"
+      },
+      {
+        "nama": "Americano",
+        "size": "330 ml",
+        "harga": "15.000",
+        "link": "#",
+        "foto": "https://assets-a1.kompasiana.com/items/album/2023/01/15/homemade-iced-americano-recipe-1-720x1080-63c3e4d84addee7149048932.jpg?t=o&v=770"
+      },
+      {
+        "nama": "Latte",
+        "size": "330 ml",
+        "harga": "20.000",
+        "link": "#",
+        "foto": "images/produk/product_latte.jpg"
+      },
+      {
+        "nama": "Cappuccino",
+        "size": "330 ml",
+        "harga": "20.000",
+        "link": "#",
+        "foto": "images/produk/product_capuchino.jpg"
+      }
+    ],
+    "milkshake": [
+      {
+        "nama": "Vanilla Milkshake",
+        "size": "330 ml",
+        "harga": "25.000",
+        "link": "#",
+        "foto": "https://www.foodnetwork.com/content/dam/images/food/fullset/2021/02/03/BobbyFlay_BasicVanillaMilkshake_H.jpg"
+      },
+      {
+        "nama": "Banana Milkshake",
+        "size": "330 ml",
+        "harga": "25.000",
+        "link": "#",
+        "foto": "https://smoothiesncookies.com/wp-content/uploads/2021/08/231098192_349522433370685_63285321105696877_n.jpg"
+      },
+      {
+        "nama": "Chocolate Milkshake",
+        "size": "330 ml",
+        "harga": "25.000",
+        "link": "#",
+        "foto": "https://res.cloudinary.com/hksqkdlah/image/upload/26396_sfs-chocolate-milkshakes-13.jpg"
+      }
+    ],
+    "dessert": [
+      {
+        "nama": "Kue Cokelat",
+        "size": "kecil",
+        "harga": "25.000",
+        "link": "#",
+        "foto": "https://www.frisianflag.com/storage/app/media/Milkipedia/3-resep-kue-coklat-nikmat-ala-cafe-yang-bisa-dibuat-di-rumah.jpg"
+      },
+      {
+        "nama": "Redvelvet",
+        "size": "kecil",
+        "harga": "25.000",
+        "link": "#",
+        "foto": "https://img.kurio.network/sbhToxZQouTu9UbE5NXVHGzpjgY=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/21/07/05/0653ec45-f4ff-4288-98bf-85781f01c7bf.jpe"
+      },
+      {
+        "nama": "Tiramisu",
+        "size": "kecil",
+        "harga": "25.000",
+        "link": "#",
+        "foto": "https://o-cdf.sirclocdn.com/unsafe/o-cdn-cas.sirclocdn.com/parenting/images/Tiramisu.width-800.format-webp.webp"
+      }
+    ],
+    "frappuccino": [
+      {
+        "nama": "Mocha Frappuccino",
+        "size": "330ml",
+        "harga": "30.000",
+        "link": "#",
+        "foto": "https://pamsdailydish.com/wp-content/uploads/2020/07/Starbucks-Mocha-Frappuccino.jpg"
+      },
+      {
+        "nama": "Caramel Frappuccino",
+        "size": "330 ml",
+        "harga": "30.000",
+        "link": "#",
+        "foto": "https://www.allrecipes.com/thmb/cb1Zf7kTp5QkiMA0GBj8ppsrZx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/235850-starbucks-caramel-frappuccino-copycat-recipe-DDMFS-4x3-227a1e47f46643dcb4708e775a250bca.jpg"
+      },
+      {
+        "nama": "Matcha Frappuccino",
+        "size": "330 ml",
+        "harga": "30.000",
+        "link": "#",
+        "foto": "https://www.allrecipes.com/thmb/Gi-UeqP7Hkg76pxaBdNfFRwZghE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2245114-2c40c3ab38294a8e9949b800af19eb8f.jpg"
+      },
+      {
+        "nama": "Strawberry Frappuccino",
+        "size": "330 ml",
+        "harga": "30.000",
+        "link": "#",
+        "foto": "https://lifestyleofafoodie.com/wp-content/uploads/2023/05/Starbucks-strawberry-creme-frappuccino-7.jpg"
+      }
+    ]
+  }
